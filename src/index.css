@@ -5,6 +5,11 @@ body {
     sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
+  background-image: url(../src/assets/StarWarsWallpaper.jpg);
+  background-size: inherit;
+  background-repeat: no-repeat;
+  background-position: top;
+  color: rgb(255, 230, 0);
 }
 
 code {
