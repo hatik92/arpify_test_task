@@ -48,6 +48,6 @@ export const starWarsSlice = createSlice({
 })
 
 // Action creators are generated for each case reducer function
-export const selectFilms = (state) => state.starWars.filmById
+export const selectFilm = (state) => state.starWars.filmById
 
 export default starWarsSlice.reducer
